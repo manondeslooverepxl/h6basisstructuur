@@ -16,5 +16,13 @@ article#box2 {
     position: relative;
     left: 50px;
     bottom: 50px;
+    z-index: 1;
 }
 
+/*  normaal gezien staat box2 boven box1 doordat die laatste staat in de html code, via de z-index pas je dit aan
+    hoe lager het nummer -> hoe meer naar de achtergrond
+    hoe hoger het nummer -> hoe meer naar de voorgrond*/
+
+article#box1 {
+    z-index: 2;
+}
