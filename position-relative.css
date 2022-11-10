@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+article {
+    width: 300px;
+    padding: 30px;
+    background-color: #f1f0f1;
+    border: 1px solid #2c2c2c;
+}
+
+/* je mag ook gewoon #box2 schrijven ipv article#box2*/
+article#box2 {
+    position: relative;
+    left: 50px;
+    bottom: 50px;
+}
+

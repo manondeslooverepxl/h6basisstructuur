@@ -1,0 +1,14 @@
+/* alles bij het sterretje is vanaf nu VERPLICHT bij elke code*/
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+}
+main {
+    width: 700px;
+    padding: 50px;
+    margin: 50px auto;
+    border: 2px solid #ff0000;
+}
