@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d50e3fe-a60c-4816-8e56-84fccf0eea8d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/boxsizing-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boxsizing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/position-absolute.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/position-absolute.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/position-fixed.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/position-fixed.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/position-relative.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/position-relative.html" afterDir="false" />
+    <list default="true" id="2d50e3fe-a60c-4816-8e56-84fccf0eea8d" name="Changes" comment="les 10/11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/navbar-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/position-absolute.css" beforeDir="false" afterPath="$PROJECT_DIR$/position-absolute.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/position-absolute.html" beforeDir="false" afterPath="$PROJECT_DIR$/position-absolute.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/position-fixed.css" beforeDir="false" afterPath="$PROJECT_DIR$/position-fixed.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/position-fixed.html" beforeDir="false" afterPath="$PROJECT_DIR$/position-fixed.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +52,16 @@
       <updated>1668009462245</updated>
       <workItem from="1668009463610" duration="140000" />
       <workItem from="1668009618829" duration="1490000" />
-      <workItem from="1668072761291" duration="2548000" />
+      <workItem from="1668072761291" duration="4621000" />
     </task>
+    <task id="LOCAL-00001" summary="les 10/11">
+      <created>1668075482026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668075482026</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +77,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="les 10/11" />
+    <option name="LAST_COMMIT_MESSAGE" value="les 10/11" />
   </component>
 </project>

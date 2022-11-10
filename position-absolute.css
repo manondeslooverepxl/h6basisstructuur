@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main {
+    width: 700px;
+    margin: 0 auto;
+    border: 1px solid #2c2c2c;
+    padding: 30px;
+    position: relative;
+}
+
+main article {
+    width: 200px;
+    padding: 20px;
+    background-color: #f1f0f1;
+    border: 1px solid #2c2c2c;
+}
+
+#box2 {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
