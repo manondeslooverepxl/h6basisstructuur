@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Calibri Light", sans-serif;
+}
+body{
+    background-image: url("assets/achtergrond.png");
+}
+header{
+    width: 960px;
+    border-radius: 0px 0px 10px 10px;
+    padding: 20px;
+    color: #ffffff;
+    background-color: #2F4F4F;
+    position: fixed;
+    top: 0;
+    left: 50%;
+    margin-left: -480px;
+}
+main{
+    width: 960px;
+    margin: 100px auto 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+main section#about{
+    margin: 20px 0;
+}
+main section#about h2{
+    margin: 0 0 15px 0;
+}
+main section#articles{
+    height: 800px;
+    margin-top: 20px;
+    border-top: 1px solid #CCCCCC;
+}
+main section h3{
+    margin: 20px 0;
+}
+main section article h4{
+    margin-bottom: 10px;
+}
+main section article{
+    background-color: #CCCCCC;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    height: 30%;
+    overflow: auto;
+}
+footer a{
+    background-color: #2F4F4F;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 20px;
+    border-radius: 10px 10px 0 0;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}

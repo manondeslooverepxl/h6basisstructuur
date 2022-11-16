@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+/* Screen */
+#titlescreen h1{
+    width: 800px;
+    text-align: center;
+    margin: 30px auto;
+}
+#titlescreen{
+    width: 800px;
+    margin: 0 auto;
+}
+img{
+    width: 100px;
+    position: relative;
+    margin: 0 50px 50px 50px;
+    top: 0px;
+    left: 100px;
+}
+
+/* tablet */
+header, main{
+    width: 1100px;
+    background-color: #FFA500;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #000000;
+    margin: 10px auto;
+}
+main #tablet iframe{
+    border: 10px solid #000000;
+    background-color: #ffffff;
+    height: 768px;
+    width: 1024px;
+}

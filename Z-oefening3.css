@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+header{
+    width: 600px;
+    margin: 0 auto 0 -300px;
+    background-color: #ffffff;
+    position: fixed;
+    z-index: 99;
+    top: 0;
+    left: 50%;
+}
+header h1{
+    padding: 20px;
+
+}
+main{
+    width: 600px;
+    margin: 120px auto 0 auto;
+    background-color: #CCCCCC;
+    border-top: 2px solid #000000;
+    padding-bottom: 20px;
+}
+main section{
+    width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-bottom: 2px solid #000000;
+    border-radius: 10px;
+    position: relative;
+}
+main section h2{
+    margin: 0 0 10px 0;
+}
+main section p.grass, p.poison, p.fire, p.flying{
+    display: inline-block;
+    padding: 5px;
+    width: 100px;
+    border-radius: 5px;
+    color: #ffffff;
+
+}
+main section p.grass{
+    background-color: #0EB225;
+}
+main section p.poison{
+    background-color: #580EB2;
+}
+main section p.fire{
+    background-color: #FF4500;
+}
+main section p.flying{
+    background-color: #8A42E1;
+}
+main section p.nummer{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+main section img{
+    position: absolute;
+    right: 30px;
+    top: 30px;
+}
