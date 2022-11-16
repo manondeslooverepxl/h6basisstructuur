@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2d50e3fe-a60c-4816-8e56-84fccf0eea8d" name="Changes" comment="les 16/11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z-oefening4.css" beforeDir="false" afterPath="$PROJECT_DIR$/Z-oefening4.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z-oefening4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Z-oefening4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z-oefening5-screen.html" beforeDir="false" afterPath="$PROJECT_DIR$/Z-oefening5-screen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z-oefening5.css" beforeDir="false" afterPath="$PROJECT_DIR$/Z-oefening5.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <workItem from="1668072761291" duration="6054000" />
       <workItem from="1668434253218" duration="13000" />
       <workItem from="1668592054709" duration="785000" />
-      <workItem from="1668609321866" duration="4633000" />
+      <workItem from="1668609321866" duration="5480000" />
     </task>
     <task id="LOCAL-00001" summary="les 10/11">
       <created>1668075482026</created>
@@ -128,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668611583204</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="les 16/11">
+      <created>1668614125301</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668614125301</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
